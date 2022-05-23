@@ -1,4 +1,4 @@
-# VLSM subnetting 
+# VLSM Subnetting 
 A service provider has given our company a Network ID 179.103.118.0/24
 ### Network topology:
 ![](Images/Before%20VLSM%20subnetting.png)
