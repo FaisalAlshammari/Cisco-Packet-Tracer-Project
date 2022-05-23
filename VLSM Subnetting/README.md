@@ -1,7 +1,7 @@
 # VLSM subnetting 
 A service provider has given our company a Network ID 179.103.118.0/24
 ### Network topology:
-![](VLSM%20Subnetting/Images/Before%20VLSM%20subnetting.png)
+![](Images/Before%20VLSM%20subnetting.png)
 
 ### main tasks: 
 - Applying VLSM subnetting to the network
@@ -10,4 +10,4 @@ A service provider has given our company a Network ID 179.103.118.0/24
 - Apply DHCP in router3
 
 ### after completing tasks: 
-![](VLSM%20Subnetting/Images/After%20VLSM%20subnetting.png)
+![](Images/After%20VLSM%20subnetting.png)
